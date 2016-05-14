@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ahassan
+ * @author Abdallah Hassan
  */
 public class GradingQuizzes {
 
